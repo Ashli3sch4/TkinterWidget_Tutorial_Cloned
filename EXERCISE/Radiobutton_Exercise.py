@@ -32,7 +32,3 @@ output_label.pack(pady=20)
 # run the program to generate window with all packed elements for user interaction 
 window.mainloop()
 
-
-
-
-
